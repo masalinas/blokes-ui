@@ -8,7 +8,7 @@ import { HelmApiControllerService } from '../app/shared/sdk';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit {
-  title = 'Helm API';
+  title = 'Blokes Dashboard';
 
   constructor(private helmApi: HelmApiControllerService) {}
 
