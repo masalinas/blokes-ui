@@ -1,6 +1,9 @@
 # blokes-ui
 Blokes UI
 
+# to create the project execute the angular CLI command:
+ng new blokes-ui
+
 # install swagger generator version 3.0.4:
 * download from https://github.com/swagger-api/swagger-codegen/archive/v3.0.4.tar.gz
 * compile sources: mvn install to obtain ./swagger-codegen-3.0.4/modules/swagger-codegen-cli/target/swagger-codegen-cli.jar
